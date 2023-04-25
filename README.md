@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alireza Sedighi Fard AKA @DarkZara
 - 👀 I’m interested in AI and machine learning
-- 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on AI and Machine learning.
+- 🌱 I’m currently learning machine learning for my MS in IUST.
+- 💞️ I’m a remote Machine learning engineer for cortex lab.
 - 📫 How to reach me :
 irabrod.com
 irabrod.ir
